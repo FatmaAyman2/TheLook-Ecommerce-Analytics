@@ -27,6 +27,14 @@ This project analyzes an e-commerce fashion dataset using Excel. Power Query is 
 | Marketing | Shopping funnel, add-to-cart rate, cart-to-purchase rate, purchase conversion, traffic-source breakdown, browser distribution |
 | Inventory | In-stock items by brand, revenue forecast, and historical/forecast sold units |
 
+## Download the Excel Dashboard
+
+[**Download TheLook Analytics — Excel Workbook (v1.0)**](https://github.com/FatmaAyman2/TheLook-Ecommerce-Analytics/releases/tag/v1.0)
+
+The complete interactive Excel workbook includes Power Query transformations, Power Pivot data modeling, DAX measures, PivotTables, PivotCharts, and forecasting analysis.
+
+**Requirements:** Microsoft Excel Desktop with Power Pivot support.
+
 ## Key insights
 
 - **Shopping funnel performance:** The dashboard records **681,759 sessions**, including **432,146 cart sessions** and **181,759 purchase sessions**. The displayed **add-to-cart rate is 63.39%**, **cart-to-purchase rate is 42.06%**, and **overall purchase conversion is 26.66%**. These are aggregate, event-based session metrics rather than a verified step-by-step customer journey.
