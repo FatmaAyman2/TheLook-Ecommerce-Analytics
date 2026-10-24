@@ -1,0 +1,14 @@
+# Excel lock / temporary files
+~$*.xlsx
+~$*.xlsm
+*.tmp
+*.bak
+
+# Raw extracted datasets (download from Kaggle instead)
+data/
+*.csv
+*.zip
+
+# Misc
+.DS_Store
+Thumbs.db
